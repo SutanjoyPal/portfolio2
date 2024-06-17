@@ -1,2 +1,3 @@
 My PortFolio showcasing my skills and projects.
-Link: 
+
+Link: https://sutanjoypal.github.io/portfolio2/ 
